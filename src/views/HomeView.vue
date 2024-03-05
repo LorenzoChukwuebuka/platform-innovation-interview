@@ -1,18 +1,16 @@
-<template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
-</template>
-
-<script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
-export default {
-  name: 'HomeView',
-  components: {
-    HelloWorld
-  }
-}
+ <script setup>
+ import navComponent from '@/components/navComponent.vue';
 </script>
+
+<template>
+    <main>
+        <navComponent/>
+        <div class="card mx-auto mt-5 container w-50">
+            <div class="card-body mx-auto">
+                <h5 class="card-title">Quiz App</h5>
+                <p class="card-text">Welcome to The Quiz App</p>
+                <router-link to="/quiz" class="btn btn-sm btn-primary">Click here to start</router-link>
+            </div>
+        </div>
+    </main>
+</template>

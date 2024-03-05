@@ -1,0 +1,115 @@
+{
+    "quizTitle": "General Knowledge Quiz",
+    "questions": [
+      {
+        "question": "What is the capital of Australia?",
+        "options": [
+          "Sydney",
+          "Melbourne",
+          "Canberra",
+          "Brisbane"
+        ],
+        "correctAnswer": "Canberra",
+        "explanation": "Canberra is the capital city of Australia, located in the Australian Capital Territory."
+      },
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": [
+          "Mars",
+          "Jupiter",
+          "Venus",
+          "Mercury"
+        ],
+        "correctAnswer": "Mars",
+        "explanation": "Mars is often called the 'Red Planet' due to the iron oxide prevalent on its surface, giving it a reddish appearance."
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean",
+          "Pacific Ocean"
+        ],
+        "correctAnswer": "Pacific Ocean",
+        "explanation": "The Pacific Ocean is the largest ocean on Earth, covering about 30% of the Earth's surface."
+      },
+      {
+        "question": "What is the smallest country in the world by land area?",
+        "options": [
+          "Vatican City",
+          "Monaco",
+          "Nauru",
+          "Tuvalu"
+        ],
+        "correctAnswer": "Vatican City",
+        "explanation": "With an area of just 0.17 square miles, Vatican City is the smallest internationally recognized independent state in the world."
+      },
+      {
+        "question": "Who wrote the famous novel 'Pride and Prejudice'?",
+        "options": [
+          "Jane Austen",
+          "Charlotte Brontë",
+          "Emily Brontë",
+          "Mary Shelley"
+        ],
+        "correctAnswer": "Jane Austen",
+        "explanation": "The classic novel 'Pride and Prejudice' was written by the English novelist Jane Austen and published in 1813."
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+          "Au",
+          "Ag",
+          "Cu",
+          "Fe"
+        ],
+        "correctAnswer": "Au",
+        "explanation": "The chemical symbol for gold is 'Au', which comes from the Latin word 'aurum' meaning 'shining dawn'."
+      },
+      {
+        "question": "What is the rarest blood type?",
+        "options": [
+          "O-",
+          "AB-",
+          "AB+",
+          "Rh-null"
+        ],
+        "correctAnswer": "Rh-null",
+        "explanation": "Rh-null is the rarest blood type, occurring in only a few individuals worldwide."
+      },
+      {
+        "question": "What is the largest mammal on Earth?",
+        "options": [
+          "Elephant",
+          "Blue Whale",
+          "Giraffe",
+          "Hippopotamus"
+        ],
+        "correctAnswer": "Blue Whale",
+        "explanation": "The blue whale is the largest mammal and the largest living animal on Earth, weighing up to 200 tons."
+      },
+      {
+        "question": "What is the smallest planet in our solar system?",
+        "options": [
+          "Mercury",
+          "Mars",
+          "Venus",
+          "Earth"
+        ],
+        "correctAnswer": "Mercury",
+        "explanation": "Mercury is the smallest planet in our solar system, with a radius of about 2,439 kilometers."
+      },
+      {
+        "question": "What is the primary language spoken in Brazil?",
+        "options": [
+          "Spanish",
+          "Portuguese",
+          "French",
+          "Italian"
+        ],
+        "correctAnswer": "Portuguese",
+        "explanation": "The primary language spoken in Brazil is Portuguese, which is also the official language of the country."
+      }
+    ]
+  }
